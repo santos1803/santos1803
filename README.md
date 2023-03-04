@@ -7,6 +7,16 @@ Estudiante de desarrollo web en JavaScript :seedling:
 ### :notebook: Me encanta leer.
 ### :shell: En constante aprendizaje.
 
+## Estos son los 5 comandos
+|Comandos | Descripcion              | 
+|---------| -----------------------  |
+|ls       | Lista el contenido       |     
+|cd       | Cambiar en el directorio |
+|yarn     | Instalar dependencias    |
+|gst      | Alias de git status      |
+|clear    | Limpiar la terminal      |
+|alias    | Listar los alias         |
+
 
 <!--
 **santos1803/santos1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
