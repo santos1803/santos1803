@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hola 👋 Soy Santos Martinez
+Estudiante de desarrollo web en JavaScript :seedling:
+
+## Sobre Mi
+### :school: Estudiante de nuevas tecnologias.
+### :stars: Apasionado en el desarrollo.
+### :notebook: Me encanta leer.
+### :shell: En constante aprendizaje.
+
 
 <!--
 **santos1803/santos1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
